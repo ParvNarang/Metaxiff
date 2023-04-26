@@ -1,0 +1,10 @@
+__pycache__
+
+try.py
+
+# pyenv
+.python-version
+.DS_Store
+
+# Environment
+venv/
