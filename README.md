@@ -15,6 +15,15 @@ https://user-images.githubusercontent.com/56078295/234616628-2962d2c4-f8f7-4b88-
 
 ![metaxiff_3](https://user-images.githubusercontent.com/56078295/234616449-f4789326-ebae-4564-9671-088f81dbf7d4.png)
 
+## Setup
+For using it, Exiftool should be installed on the system. Refer this link https://exiftool.org/install.html to install the tool.
+
+```
+git clone https://github.com/ParvNarang/Metaxiff.git
+cd Metaxiff
+pip3 install -r requirements.txt
+python3 app.py
+```
 ### Made by -
 | Github | Name |
 | ------------- | ------------- |
